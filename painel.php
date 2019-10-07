@@ -59,14 +59,14 @@ include('verifica_login.php');
 	</aside>
 	<aside id="lateral">
 
+<h2><a href="logout.php">Sair</a></h2>
 	</aside>
 	   </article>
 	
 	    </div> 
 	</div>
 	
-
-	
+	 <div id="meio31"></div>
 	
 	<footer id="rodape">
 <div style="">
@@ -88,4 +88,3 @@ include('verifica_login.php');
 	
 	</body>
 
-<h2><a href="logout.php">Sair</a></h2>
