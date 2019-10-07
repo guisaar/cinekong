@@ -249,12 +249,12 @@ text-align:Justify
 
 
 
-            #rodape{
+             #rodape{
           
 				clear: both; /*não permite elementos flutuantes ao lado*/
                 text-align: center; /*alinhamento do texto*/
                 padding: 1%; /*espaço entre a borda e o conteúdo do elemento*/
-                background-color: #2b2929; /*cor de fundo*/
+                background-color: #ffffff5c; /*cor de fundo*/
 						color:white;
 							margin: 0%;
 							height:130;
